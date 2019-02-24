@@ -22,6 +22,8 @@ Resources
 - https://edu.gcfglobal.org/en/beginning-graphic-design/fundamentals-of-design/1/
 - https://medium.freecodecamp.org/before-you-can-master-design-you-must-first-master-the-fundamentals-1981a2af1fda
 - https://edu.gcfglobal.org/en/beginning-graphic-design/typography/1/
+- https://www.youtube.com/watch?v=z4HjltaEV2E
+- https://www.youtube.com/watch?v=atS36kzr8zg&feature=youtu.be
 
 Inspiring
 https://www.youtube.com/watch?v=9uOMectkCCs
